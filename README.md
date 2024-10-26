@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishaDevi)](https://github.com/AnishaDevi/github-readme-stats)
+
 [![An image of @anishadevi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anishadevi)](https://holopin.io/@anishadevi)
