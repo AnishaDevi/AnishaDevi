@@ -31,6 +31,11 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnishaDevi&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnishaDevi&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnishaDdevi&theme=radical&utcOffset=8">  
+
+  <!-- Additional GitHub Readme Stats -->
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=AnishaDevi&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="AnishaDevi" />
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnishaDevi&theme=radical" alt="AnishaDevi" />
+
 </div>
 
 ## 🏆 GitHub Trophies
