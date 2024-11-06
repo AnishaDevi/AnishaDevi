@@ -1,4 +1,4 @@
-# Hi, I'm Anisha Devi
+# Hi🙋‍♀️, I'm Anisha Devi
 
 <!--
 **AnishaDevi/AnishaDevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<h4 align="left">🕓 Version Control and 🔬 CI</h4>
+<p>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"> &nbsp;
+</p>
+
+<h4 align="left">🖥️ Machine Learning</h4>
+<p>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> 
+</p>
+
+<h4 align="left">💻 IDEs/Editors</h4>
+<p>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"> &nbsp;
 
 ![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishaDevi&show_icons=true&theme=transparent&height="158em")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishaDevi&layout=donut&theme=transparent)](https://github.com/AnishaDevi/github-readme-stats)
@@ -46,3 +65,11 @@ Here are some ideas to get you started:
 
 ## Hacktoberfest
 [![An image of @anishadevi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anishadevi)](https://holopin.io/@anishadevi)
+
+<!-- Visitor Count Badge 
+<div align="start">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=AnishaDevi3&icon=1&color=0" alt="Visitor Count" />
+  </a>
+</div>
+-->
