@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23150458.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 
 
-![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishaDevi&show_icons=true&theme=transparent&height="158em")
+<!--![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishaDevi&show_icons=true&theme=transparent&height="158em")-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishaDevi&layout=donut&theme=transparent)](https://github.com/AnishaDevi/github-readme-stats)
 
 ## 📊 GitHub Stats:
