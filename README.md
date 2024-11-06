@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 <p>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23150458.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+
 
 ![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishaDevi&show_icons=true&theme=transparent&height="158em")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishaDevi&layout=donut&theme=transparent)](https://github.com/AnishaDevi/github-readme-stats)
