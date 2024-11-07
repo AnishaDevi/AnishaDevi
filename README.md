@@ -65,6 +65,12 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=AnishaDevi&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
+## GSSOC(24) Badges 🪶
+<a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=AnishaDevi">Leaderboard🔗</a>
+<div style='display:flex; align-items:center; gap: 10px;' align='left'><a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+</div>
+  
 ## Hacktoberfest
 [![An image of @anishadevi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anishadevi)](https://holopin.io/@anishadevi)
 
