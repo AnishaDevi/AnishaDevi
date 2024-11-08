@@ -80,7 +80,5 @@ Here are some ideas to get you started:
 [![An image of @anishadevi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anishadevi)](https://holopin.io/@anishadevi)
 
 
-![Visitor Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusername%2Fusername&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
-
   
 
