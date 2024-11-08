@@ -51,7 +51,6 @@ Here are some ideas to get you started:
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnishaDevi&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnishaDevi&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnishaDevi&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnishaDdevi&theme=radical&utcOffset=8">  
 
   <!-- Additional GitHub Readme Stats -->
   <img height="169em" src="https://github-readme-stats.vercel.app/api?username=AnishaDevi&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="AnishaDevi" />
@@ -67,18 +66,23 @@ Here are some ideas to get you started:
 
 ## GSSOC(24) Badges 🪶
 <a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=AnishaDevi">Leaderboard🔗</a>
-<div style='display:flex; align-items:center; gap: 10px;' align='left'><a href="https://gssoc.girlscript.tech/leaderboard">
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
 </div>
   
 ## Hacktoberfest
 [![An image of @anishadevi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anishadevi)](https://holopin.io/@anishadevi)
 
-<!-- Visitor Count Badge 
+ Visitor Count Badge 
 <div align="start">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=AnishaDevi3&icon=1&color=0" alt="Visitor Count" />
   </a>
 </div>
--->
+
