@@ -48,14 +48,14 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnishaDevi&theme=radical&hide_border=false">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnishaDevi&theme=radical&hide_border=false">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnishaDevi&theme=radicall&">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnishaDevi&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnishaDevi&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnishaDevi&theme=radical">
 
   <!-- Additional GitHub Readme Stats -->
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=AnishaDevi&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="AnishaDevi" />
-  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnishaDevi&theme=radical" alt="AnishaDevi" />
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=AnishaDevi&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="AnishaDevi" />
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnishaDevi&theme=radical&hide_border=true" alt="AnishaDevi" />
 
 </div>
 
