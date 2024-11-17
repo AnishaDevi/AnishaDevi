@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnishaDevi&theme=radicall&">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnishaDevi&theme=radical">
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnishaDevi&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnishaDevi&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnishaDevi&theme=radical">
